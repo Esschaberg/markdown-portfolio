@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Never Gonna let You down*,
+_Never Gonna Say Goodbye_,
+**Never Gonna Run Around**,
